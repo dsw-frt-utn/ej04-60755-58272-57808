@@ -1,2 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/39DJV9ho)
-
+Desarrollo de software-2026-3k3
+Ejercicio 4
+Integrante 1: 58272 - Mendez Nazarena Rosario - nazarena.mendez@alu.frt.utn.edu.ar
+Integrante 2: 60755 - Musumeci Malena - MalenaMusumeci@alu.frt.utn.edu.ar
+Integrante 3: 57808 - Navarrete Suarez Maria Julia - Julia.Navarrete@alu.frt.utn.edu.ar
